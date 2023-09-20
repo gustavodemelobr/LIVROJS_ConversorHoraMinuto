@@ -1,0 +1,9 @@
+#btn {
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-family: system-ui;
+    font-size: 16px;
+    height: 45px;
+}
